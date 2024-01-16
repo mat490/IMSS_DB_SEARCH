@@ -14,22 +14,26 @@ Tener un compilador de C++ instalado en tu sistema.
 
 ### Pasos para Utilizar el Programa
 **1. Clona el repositorio:**
+   
     ```bash
     git clone https://github.com/tu-nombre-de-usuario/IMMSS_DB_SEARCH.git
     cd IMSS_DB_SEARCH
     ```
 
 **2. Compila el script en C++:**
+   
     ```bash
     g++ DB_search.cpp -o DB_search
     ```
 
 **3. Ejecuta el script:**
+   
     ```bash
     ./DB_search
     ```
 
 **4. Sigue las instrucciones en pantalla para seleccionar la ubicación de la base de datos y realizar búsquedas.**
+
 Se te pedirá seleccionar la opción para utilizar la base de datos dentro de la misma carpeta o ingresar la ubicación de otra base de datos similar.
 Luego, podrás elegir entre realizar una búsqueda secuencial o una búsqueda binaria.
 
