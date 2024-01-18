@@ -34,5 +34,6 @@ Tener un compilador de C++ instalado en tu sistema.
 Se te pedirá seleccionar la opción para utilizar la base de datos dentro de la misma carpeta o ingresar la ubicación de otra base de datos similar.
 Luego, podrás elegir entre realizar una búsqueda secuencial o una búsqueda binaria.
 
-## Notas adicionales
-**El formato de la base de datos debe ser similar al proporcionado en el ejemplo (2021_04_3_AGUASCALIENTES.txt).**
+
+> [!WARNING]
+> **El formato de la base de datos debe ser similar al proporcionado en el ejemplo (2021_04_3_AGUASCALIENTES.txt).**
