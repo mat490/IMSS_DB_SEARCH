@@ -36,4 +36,4 @@ Luego, podrás elegir entre realizar una búsqueda secuencial o una búsqueda bi
 
 
 > [!WARNING]
-> **El formato de la base de datos debe ser similar al proporcionado en el ejemplo (2021_04_3_AGUASCALIENTES.txt).**
+> **Wn caso de usar una base de datos propia formato de la base de datos debe ser similar al proporcionado en el ejemplo (2021_04_3_AGUASCALIENTES.txt).**
