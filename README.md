@@ -15,7 +15,7 @@ Tener un compilador de C++ instalado en tu sistema.
 ### Pasos para Utilizar el Programa
 **1. Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-nombre-de-usuario/IMMSS_DB_SEARCH.git
+    git clone https://github.com/mat490/IMMSS_DB_SEARCH.git
     cd IMSS_DB_SEARCH
     ```
 
